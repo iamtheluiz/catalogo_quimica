@@ -3,12 +3,11 @@ import React from 'react';
 // Styles import
 import './App.css';
 
+// App Routes
+import Routes from './routes';
+
 function App() {
-  return (
-    <div className="App">
-      <h1>Apenas um Título</h1>
-    </div>
-  );
+  return <Routes />;
 }
 
 export default App;
