@@ -7,6 +7,7 @@ import './styles.css';
 // Svg's
 import logo from '../../assets/logo.svg';
 import link from '../../assets/link.svg';
+import plus from '../../assets/plus.svg';
 
 // Components
 import Integrantes from '../../components/Integrantes';
@@ -27,7 +28,9 @@ export default function Home() {
         <img id="logo" src={logo} alt="Website Logo" />
         <h1>Catálogo de Química</h1>
         <span>Um manual de boas práticas e conhecimentos para laboratórios de química!</span>
-        <a id="scrollLink" href="#projetoMain">+</a>
+        <a id="scrollLink" href="#projetoMain">
+          <img src={plus} alt="Mostrar mais" />
+        </a>
       </header>
       <main id="projetoMain">
         <h2>O Projeto</h2>

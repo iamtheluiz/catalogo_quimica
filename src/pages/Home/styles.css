@@ -32,20 +32,25 @@
   margin-top: 10px;
   width: 50px;
   height: 50px;
-  padding-bottom: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 25px;
   border: 3px solid #6286c4;
-  color: #6286c4;
   text-decoration: none;
-  font-size: 30pt;
+}
+.Home #scrollLink img {
+  filter: invert(45%) sepia(94%) saturate(276%) hue-rotate(179deg) brightness(94%) contrast(83%);
+  width: 30px;
+  height: 30px;
 }
 .Home #scrollLink:hover {
   transition: 0.2s all;
-  border: 3px solid white;
-  color: white;
+  border-color: black;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(200%) contrast(103%);
+}
+.Home #scrollLink:hover {
+  transition: 0.2s all;
 }
 .Home main ul {
   list-style: none;
