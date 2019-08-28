@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/catalogo_quimica/precache-manifest.7120c553a33ac81084bed26a5a5c343c.js"
+  "/catalogo_quimica/precache-manifest.4d51ee80fce308e838de9a98df21f70f.js"
 );
 
 self.addEventListener('message', (event) => {
