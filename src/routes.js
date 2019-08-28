@@ -11,7 +11,7 @@ import Referencias from './pages/Referencias';
 
 export default function Routes() {
   return(
-    <BrowserRouter>
+    <BrowserRouter basename="/catalogo_quimica">
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/normas" exact component={Normas} />
