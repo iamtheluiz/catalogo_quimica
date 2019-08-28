@@ -1,0 +1,26 @@
+.Home {
+  background-color: #202b3e;
+  color: white;
+}
+.Home header {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.Home header #logo {
+  margin-top: -50px;
+  width: 300px;
+  height: 300px;
+}
+.Home header h1 {
+  font-size: 60pt;
+  text-align: center;
+  margin-top: -50px;
+}
+.Home header span {
+  font-size: 16pt;
+  text-align: center;
+  max-width: 600px;
+}
