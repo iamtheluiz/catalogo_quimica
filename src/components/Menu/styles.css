@@ -1,0 +1,25 @@
+div#mainMenu {
+  display: flex;
+  height: 64px;
+  background-color: #202b3e;
+  color: white;
+  align-items: center;
+  padding: 5px;
+  flex-direction: row;
+  justify-content: space-between;
+  box-shadow: 0px 2px #0f0f1152;
+}
+div#mainMenu a img {
+  width: 40px;
+  height: 40px;
+}
+div#mainMenu ul {
+  list-style: none;
+}
+div#mainMenu ul li {
+  display: inline;
+  margin: 10px;
+}
+div#mainMenu ul li a {
+  color: white;
+}
