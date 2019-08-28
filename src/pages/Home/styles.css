@@ -43,8 +43,23 @@
   text-decoration: none;
   font-size: 30pt;
 }
-.Home #scrollLink:hover{
+.Home #scrollLink:hover {
   transition: 0.2s all;
   border: 3px solid white;
   color: white;
+}
+.Home main ul {
+  list-style: none;
+  position: relative;
+}
+.Home main ul li {
+  margin-left: 5px;
+  font-size: 14pt;
+}
+.Home main ul li img.linkSvg{
+  position: absolute;
+  left: 20px;
+  margin-top: 2px;
+  width: 20px;
+  height: auto;
 }
