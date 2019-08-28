@@ -2,7 +2,6 @@ div#integrantes {
   display: flex;
   flex-direction: column;
   align-items: center;
-  text-align: center;
   padding: 20px;
 }
 div#integrantes h1 {
@@ -15,7 +14,6 @@ div#integrantes ul {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  text-align: center;
   max-width: 800px;
 }
 div#integrantes ul li {
@@ -27,5 +25,28 @@ div#integrantes ul li::before {
   content: "> ";
   color: #fff;
   font-size: 1.5rem;
-  text-align: center;
+}
+@media(min-width: 0px){
+  div#integrantes ul li {
+    width: 100%;
+    position: relative;
+    font-size: 14pt;
+    text-align: center;
+  }
+}
+@media(min-width: 400px){
+  div#integrantes ul li {
+    width: 50%;
+    position: relative;
+    font-size: 14pt;
+    text-align: inherit;
+  }
+}
+@media(min-width: 620px){
+  div#integrantes ul li {
+    width: 25%;
+    position: relative;
+    font-size: 14pt;
+    text-align: inherit;
+  }
 }
