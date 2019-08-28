@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 // Page Style
@@ -17,6 +17,10 @@ import topicos from '../../services/topicos';
 
 // Page Component
 export default function Home() {
+  useEffect(() => {
+    document.title = "Catálogo de Química";
+  }, []);
+
   return (
     <div className="Home">
       <header>
