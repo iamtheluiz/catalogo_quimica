@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/catalogo_quimica/static/css/main.d11f948b.chunk.css",
+    "main.js": "/catalogo_quimica/static/js/main.aad3345b.chunk.js",
+    "main.js.map": "/catalogo_quimica/static/js/main.aad3345b.chunk.js.map",
+    "runtime~main.js": "/catalogo_quimica/static/js/runtime~main.df348392.js",
+    "runtime~main.js.map": "/catalogo_quimica/static/js/runtime~main.df348392.js.map",
+    "static/js/2.a810148d.chunk.js": "/catalogo_quimica/static/js/2.a810148d.chunk.js",
+    "static/js/2.a810148d.chunk.js.map": "/catalogo_quimica/static/js/2.a810148d.chunk.js.map",
+    "index.html": "/catalogo_quimica/index.html",
+    "precache-manifest.7120c553a33ac81084bed26a5a5c343c.js": "/catalogo_quimica/precache-manifest.7120c553a33ac81084bed26a5a5c343c.js",
+    "service-worker.js": "/catalogo_quimica/service-worker.js",
+    "static/css/main.d11f948b.chunk.css.map": "/catalogo_quimica/static/css/main.d11f948b.chunk.css.map",
+    "static/media/home.svg": "/catalogo_quimica/static/media/home.0b04478a.svg",
+    "static/media/link.svg": "/catalogo_quimica/static/media/link.19758468.svg",
+    "static/media/logo.svg": "/catalogo_quimica/static/media/logo.eec7c7f6.svg"
+  }
+}
