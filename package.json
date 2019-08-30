@@ -2,6 +2,11 @@
   "name": "catalogo_quimica",
   "version": "0.1.0",
   "private": false,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamtheluiz/catalogo_quimica.git"
+  },
   "dependencies": {
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
