@@ -10,6 +10,9 @@ export default function Normas() {
   useEffect(() => {
     // Execução única
     document.title = "Normas de Segurança | Catálogo de Química";
+
+    // Scroll para o topo da página
+    window.scrollTo(0, 0);
   }, []);
 
   return (

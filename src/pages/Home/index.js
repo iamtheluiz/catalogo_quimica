@@ -19,7 +19,11 @@ import topicos from '../../services/topicos';
 // Page Component
 export default function Home() {
   useEffect(() => {
+    // Define o titulo da página
     document.title = "Catálogo de Química";
+
+    // Scroll para o topo da página
+    window.scrollTo(0, 0);
   }, []);
 
   return (

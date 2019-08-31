@@ -1,0 +1,38 @@
+div.pictograma {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px solid grey;
+  padding: 20px;
+}
+div.pictograma img {
+  width: 350px;
+}
+div.pictograma div.info {
+  width: calc(100% - 350px);
+  padding-left: 20px;
+}
+div.pictograma div.info strong {
+  color: #c02626;
+  margin-left: 15px;
+}
+
+@media (max-width: 760px) {
+  div.pictograma img {
+    width: 200px;
+  }
+  div.pictograma div.info {
+    width: calc(100% - 20px);
+  }
+}
+
+@media (max-width: 580px) {
+  div.pictograma {
+    flex-direction: column;
+  }
+  div.pictograma img {
+    width: 280px;
+  }
+}

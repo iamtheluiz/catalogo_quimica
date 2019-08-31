@@ -10,6 +10,9 @@ export default function Referencias() {
   useEffect(() => {
     // Execução única
     document.title = "Referências | Catálogo de Química";
+
+    // Scroll para o topo da página
+    window.scrollTo(0, 0);
   }, []);
 
   return (
@@ -24,7 +27,7 @@ export default function Referencias() {
           <li>FELTRE, Ricardo; Fundamentos da Química, vol. Único, Ed. Moderna, São Paulo/SP – 1990.</li>
           <li>HARRIS, Daniel c.; Análise Química Quantitativa, Ed. LTC, Rio de Janeiro/RJ – 1999.</li>
           <li>HUMISTON, Gerard E.; BRADY, James E.; Química Geral, Ed. LTC, Rio de Janeiro/RJ – 2000</li>
-          
+          <li>LADISLAU, Marcos T. Frota. "Símbolos de Risco - nova norma de classificação e simbologia GHS", Atomizando, Disponível em: {"https://atomizandoifam.wixsite.com/atomizando/simbolos-de-riscos"} Acesso em: 30 de agosto de 2019.</li>
         </ul>
       </div>
     </>
