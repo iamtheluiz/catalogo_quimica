@@ -47,7 +47,7 @@ module.exports = {
     ],
   },
   "5": {
-    "name": "Explosivos/Reativos",
+    "name": "Explosivos / Reativos",
     "description": "Embalagens sobre pressão que podem explodir em contato com o calor.",
     "danger": "Perigo Físico",
     "usos": [
@@ -65,7 +65,7 @@ module.exports = {
     ],
   },
   "7": {
-    "name": "Mutagênicos/Carcinogênicos/Toxicidade a Órgãos",
+    "name": "Mutagênicos / Carcinogênicos / Toxicidade a Órgãos",
     "description": "Pode causar mutações prejudiciais ao corpo humano.",
     "danger": "Perigo para a Saúde",
     "usos": [
@@ -79,7 +79,7 @@ module.exports = {
     ],
   },
   "8": {
-    "name": "Nocivos/Irritantes/Tóxico (Perigoso)",
+    "name": "Nocivos / Irritantes / Tóxico (Perigoso)",
     "description": "São agentes químicos que por inalação, absorção ou ingestão, produzem efeitos de menor gravidade. Indica também substâncias que podem desenvolver uma ação irritante sobre a pele, os olhos e o trato respiratório.",
     "danger": "Perigo para a Saúde",
     "usos": [

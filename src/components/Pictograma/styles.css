@@ -31,8 +31,18 @@ div.pictograma div.info strong {
 @media (max-width: 580px) {
   div.pictograma {
     flex-direction: column;
+    padding: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
   div.pictograma img {
     width: 280px;
+  }
+  div.pictograma div.info {
+    width: calc(100%);
+    padding-left: 0px;
+  }
+  div.pictograma div.info h3 {
+    text-align: center;
   }
 }
