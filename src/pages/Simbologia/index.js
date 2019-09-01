@@ -38,9 +38,9 @@ export default function Simbologia() {
       <div className="Simbologia">
         <h2>Simbologia de Risco</h2>
         <p>Foram definidos três tipos de perigos:</p>
-        <p><strong>Perigos físicos</strong> (inflamáveis, explosivos, comburentes, substâncias/misturas auto-reativas);</p>
-        <p><strong>Perigos para a saúde</strong> (irritantes; nocivos, corrosivos, mutagénicos, tóxicos);</p>
-        <p><strong>Perigos para o meio ambiente</strong> (ex: toxicidade aquática aguda).</p>
+        <p><strong>Perigos Físicos:</strong> Inflamáveis, explosivos, comburentes e substâncias/misturas auto reativas;</p>
+        <p><strong>Perigos para a Saúde:</strong> Irritantes, nocivos, corrosivos, mutagénicos, tóxicos, entre outros;</p>
+        <p><strong>Perigos para o Meio Ambiente:</strong> Toxicidade aquática aguda, entre outros.</p>
 
         <p className="legenda">Os pictogramas de cor alaranjado é a simbologia antiga, mas ainda muito presente nos reagente cuja data de fabricação é anterior ao ano de 2015.</p>
 

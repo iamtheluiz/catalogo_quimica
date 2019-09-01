@@ -11,12 +11,16 @@ export default function Pictograma(props) {
         <h3>{props.data.name}</h3>
         <strong>Apresenta {props.data.danger}</strong>
         <p>{props.data.description}</p>
-        <p>Usado nas seguintes classes e categorias: </p>
-        <ul>
-          {props.data.usos.map((uso, index) => (
-            <li key={index}>{uso}</li>
-          ))}
-        </ul>
+        {props.data.usos.length !== 0 && (
+          <>
+            <p>Usado nas seguintes classes e categorias: </p>
+            <ul>
+              {props.data.usos.map((uso, index) => (
+                <li key={index}>{uso}</li>
+              ))}
+            </ul>
+          </>
+        )}
       </div>
     </div>
   )
