@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.css": "/catalogo_quimica/static/css/main.aefc7a64.chunk.css",
-    "main.js": "/catalogo_quimica/static/js/main.cf3ae9e0.chunk.js",
-    "main.js.map": "/catalogo_quimica/static/js/main.cf3ae9e0.chunk.js.map",
+    "main.css": "/catalogo_quimica/static/css/main.3c23253e.chunk.css",
+    "main.js": "/catalogo_quimica/static/js/main.9b2bcc6a.chunk.js",
+    "main.js.map": "/catalogo_quimica/static/js/main.9b2bcc6a.chunk.js.map",
     "runtime~main.js": "/catalogo_quimica/static/js/runtime~main.df348392.js",
     "runtime~main.js.map": "/catalogo_quimica/static/js/runtime~main.df348392.js.map",
-    "static/js/2.a810148d.chunk.js": "/catalogo_quimica/static/js/2.a810148d.chunk.js",
-    "static/js/2.a810148d.chunk.js.map": "/catalogo_quimica/static/js/2.a810148d.chunk.js.map",
+    "static/js/2.d83a51c0.chunk.js": "/catalogo_quimica/static/js/2.d83a51c0.chunk.js",
+    "static/js/2.d83a51c0.chunk.js.map": "/catalogo_quimica/static/js/2.d83a51c0.chunk.js.map",
     "index.html": "/catalogo_quimica/index.html",
-    "precache-manifest.4d51ee80fce308e838de9a98df21f70f.js": "/catalogo_quimica/precache-manifest.4d51ee80fce308e838de9a98df21f70f.js",
+    "precache-manifest.058adb673b2808501e5abcdc178a8759.js": "/catalogo_quimica/precache-manifest.058adb673b2808501e5abcdc178a8759.js",
     "service-worker.js": "/catalogo_quimica/service-worker.js",
-    "static/css/main.aefc7a64.chunk.css.map": "/catalogo_quimica/static/css/main.aefc7a64.chunk.css.map",
+    "static/css/main.3c23253e.chunk.css.map": "/catalogo_quimica/static/css/main.3c23253e.chunk.css.map",
+    "static/media/1.webp": "/catalogo_quimica/static/media/1.c183ded6.webp",
+    "static/media/10.webp": "/catalogo_quimica/static/media/10.1d37f83b.webp",
+    "static/media/11.webp": "/catalogo_quimica/static/media/11.8a087da9.webp",
+    "static/media/2.webp": "/catalogo_quimica/static/media/2.4c5c932b.webp",
+    "static/media/3.webp": "/catalogo_quimica/static/media/3.fe9dd90a.webp",
+    "static/media/4.webp": "/catalogo_quimica/static/media/4.039cfedd.webp",
+    "static/media/5.webp": "/catalogo_quimica/static/media/5.3d79805e.webp",
+    "static/media/6.webp": "/catalogo_quimica/static/media/6.4e0476dc.webp",
+    "static/media/7.webp": "/catalogo_quimica/static/media/7.e6e14a40.webp",
+    "static/media/8.webp": "/catalogo_quimica/static/media/8.156c6fac.webp",
+    "static/media/9.webp": "/catalogo_quimica/static/media/9.29f57c28.webp",
     "static/media/home.svg": "/catalogo_quimica/static/media/home.447dc77d.svg",
     "static/media/link.svg": "/catalogo_quimica/static/media/link.19758468.svg",
-    "static/media/logo.svg": "/catalogo_quimica/static/media/logo.a80cd7a7.svg"
+    "static/media/logo.svg": "/catalogo_quimica/static/media/logo.a80cd7a7.svg",
+    "static/media/plus.svg": "/catalogo_quimica/static/media/plus.ba763f09.svg"
   }
 }
