@@ -36,7 +36,7 @@ export default function Simbologia() {
     <>
       <Menu />
       <div className="Simbologia">
-        <h2>Simbologia de Risco</h2>
+        <h2 className="Title">Simbologia de Risco</h2>
         <p>Foram definidos três tipos de perigos:</p>
         <p><strong>Perigos Físicos:</strong> Inflamáveis, explosivos, comburentes e substâncias/misturas auto reativas;</p>
         <p><strong>Perigos para a Saúde:</strong> Irritantes, nocivos, corrosivos, mutagénicos, tóxicos, entre outros;</p>

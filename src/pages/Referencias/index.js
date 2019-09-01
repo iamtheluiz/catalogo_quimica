@@ -19,7 +19,7 @@ export default function Referencias() {
     <>
       <Menu />
       <div className="Referencias">
-        <h2>Referências</h2>
+        <h2 className="Title">Referências</h2>
         <p>DA SILVA, André Luis Silva. <b>“Segurança em Laboratórios de Química”</b>, Infoescola, Disponível em: {"<https://www.infoescola.com/quimica/seguranca-em-laboratorios-de-quimica/>"}. Acesso em: 27 de agosto de 2019.</p>
         <p>RUSSELL, John B.; <b>Química Geral vol.1</b>, São Paulo: Pearson Education do Brasil, Makron Books, 1994.</p>
         <p>FELTRE, Ricardo; <b>Fundamentos da Química</b>, vol. Único, Ed. Moderna, São Paulo/SP – 1990.</p>

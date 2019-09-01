@@ -67,7 +67,7 @@ export default function Vidrarias() {
     <>
       <Menu />
       <div className="Vidrarias">
-        <h2>Vidrarias e Equipamentos</h2>
+        <h2 className="Title">Vidrarias e Equipamentos</h2>
         <p>Essas são algumas das vidrarias mais importantes para todo laboratório de química:</p>
         <ul>
           <Vidraria data={vidrarias["1"]} image={v1} />
