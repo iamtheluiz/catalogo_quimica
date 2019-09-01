@@ -2,7 +2,7 @@ module.exports = [
   "Ana Maria",
   "Bruna",
   "Feliphe",
-  "João Damasceno",
+  "João Damaceno",
   "Luiz Gustavo",
   "Marco",
   "Rayla",
