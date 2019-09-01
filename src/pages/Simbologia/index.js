@@ -6,6 +6,7 @@ import './styles.css';
 // Components
 import Menu from '../../components/Menu';
 import Pictograma from '../../components/Pictograma';
+import Footer from '../../components/Footer';
 
 // Simbolos
 import simbolos from '../../services/simbologias';
@@ -57,6 +58,7 @@ export default function Simbologia() {
         <Pictograma data={simbolos["11"]} image={s11} />
 
       </div>
+      <Footer />
     </>
   )
 }

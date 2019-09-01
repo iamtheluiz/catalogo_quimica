@@ -6,6 +6,7 @@ import './styles.css';
 // Components
 import Menu from '../../components/Menu';
 import Vidraria from '../../components/Vidraria';
+import Footer from '../../components/Footer';
 
 // Vidrarias
 import vidrarias from '../../services/vidrarias';
@@ -114,6 +115,7 @@ export default function Vidrarias() {
           <Vidraria data={vidrarias["42"]} image={v42} />
         </ul>
       </div>
+      <Footer />
     </>
   )
 }

@@ -5,6 +5,7 @@ import './styles.css';
 
 // Components
 import Menu from '../../components/Menu';
+import Footer from '../../components/Footer';
 
 export default function Normas() {
   useEffect(() => {
@@ -82,6 +83,7 @@ export default function Normas() {
         </ul>
         <p>É de extrema importância seguir cuidadosamente cada uma das regras para se tem um bom trabalho no laboratório de química e acima de tudo não se machucar nem machucar os colegas ao redor, também é imprescindível seguir todas as ordens do professor responsável durante a aula.</p>
       </div>
+      <Footer />
     </>
   )
 }

@@ -5,6 +5,7 @@ import './styles.css';
 
 // Components
 import Menu from '../../components/Menu';
+import Footer from '../../components/Footer';
 
 export default function Referencias() {
   useEffect(() => {
@@ -30,6 +31,7 @@ export default function Referencias() {
         <p>LADISLAU, Marcos Tulios Frota, <b>“Símbolos de riscos – a nova norma de classificação e simbologia GHS”</b> Atomizando. Disponível em: {"<https://atomizandoifam.wixsite.com/atomizando/simbolos-de-riscos>. Acesso em: 27 de agosto de 2019"}.</p>
         <p>ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. <b>NBR 14725-2: Produtos químicos — Informações sobre segurança, saúde e meio ambiente Parte 2: Sistema de classificação de perigo.</b> Rio de Janeiro. 2009. Disponível em: {"<http://www2.iq.usp.br/pos-graduacao/images/documentos/seg_2_2013/nbr147252.pdf>"}. Acesso em: 31 de agosto de 2019.</p>
       </div>
+      <Footer />
     </>
   )
 }
