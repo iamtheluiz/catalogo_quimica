@@ -9,7 +9,7 @@ import Menu from '../../components/Menu';
 export default function Vidrarias() {
   useEffect(() => {
     // Execução única
-    document.title = "Vidrarias | Catálogo de Química";
+    document.title = "Vidrarias e Equipamentos | Catálogo de Química";
 
     // Scroll para o topo da página
     window.scrollTo(0, 0);
@@ -19,7 +19,7 @@ export default function Vidrarias() {
     <>
       <Menu />
       <div className="Vidrarias">
-        <h2>Vidrarias</h2>
+        <h2>Vidrarias e Equipamentos</h2>
       </div>
     </>
   )

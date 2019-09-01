@@ -4,12 +4,8 @@ module.exports = [
     url: "/normas"
   },
   {
-    nome: "Vidrarias",
+    nome: "Vidrarias e Equipamentos",
     url: "/vidrarias"
-  },
-  {
-    nome: "Equipamentos",
-    url: "/equipamentos"
   },
   {
     nome: "Simbologia de Risco",

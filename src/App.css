@@ -26,6 +26,9 @@ p {
   text-align: justify;
   margin-bottom: 5px;
 }
+ul li {
+  font-size: 13pt;
+}
 p.legenda{
   font-size: 10pt;
   color: grey;
