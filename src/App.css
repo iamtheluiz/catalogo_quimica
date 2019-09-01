@@ -54,3 +54,9 @@ h3 {
     font-size: 12pt;
   }
 }
+
+@media (max-width: 475px) {
+  div.Title {
+    text-align: center;
+  }
+}
